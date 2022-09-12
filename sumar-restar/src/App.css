@@ -1,0 +1,10 @@
+.contenedorBoton {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.botonCount {
+  margin-left: 30px;
+  margin-right: 30px;
+} 

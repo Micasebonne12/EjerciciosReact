@@ -1,0 +1,16 @@
+.contenedorBotones{
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  text-align: center;
+}
+
+.boton {
+  margin-top: 50px;
+  width: 50px;
+  height: 30px;
+}
+
+.text {
+  text-align: center;
+}
